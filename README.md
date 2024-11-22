@@ -6,7 +6,6 @@ These feeds curate hits based on relevant hashtags and keywords, for the previou
 
 ## [DFIR Monitor](https://bsky.app/profile/teescdf.co.uk/feed/aaacuibebfogi) feed 
 
-Feed available from: 
 The DFIR feed makes use of keywords and hashtags to curate specific content.
 
 The list of keywords used by the feed is available for reference in the [dfir_keywords.txt file](dfir_keywords.txt).
@@ -15,7 +14,6 @@ The list of hashtags used by the feed is available for reference in the [dfir_ha
 
 ## [UK Policing](https://bsky.app/profile/teescdf.co.uk/feed/aaac7ypam7alk) feed
 
-Feed available from: 
 The UK Policing feed makes use of keywords and hashtags to curate specific content.
 
 The list of keywords used by the feed is available for reference in the [ukpolicing_keywords.txt file](ukpolicing_keywords.txt).
