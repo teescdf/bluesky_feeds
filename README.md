@@ -4,7 +4,7 @@ Repository tracking curated keywords and hashtags for Bluesky feeds for UK Polic
 
 These feeds curate hits based on relevant hashtags and keywords, for the previous 24 hours, to give followers/users an insight into curret topics. Replies etc. are screenned out, so you only get the first post in any given conversation/thread, so as to not overload things. Users are of course then able to peruse the full conversation/thread as they see fit.
 
-## DFIR: [DFIR Monitor](https://bsky.app/profile/teescdf.co.uk/feed/aaacuibebfogi) feed 
+## [DFIR Monitor](https://bsky.app/profile/teescdf.co.uk/feed/aaacuibebfogi) feed 
 
 Feed available from: 
 The DFIR feed makes use of keywords and hashtags to curate specific content.
@@ -13,7 +13,7 @@ The list of keywords used by the feed is available for reference in the [dfir_ke
 
 The list of hashtags used by the feed is available for reference in the [dfir_hashtags.txt file](dfir_hashtags.txt).
 
-## UK Policing: [UK Policing](https://bsky.app/profile/teescdf.co.uk/feed/aaac7ypam7alk) feed
+## [UK Policing](https://bsky.app/profile/teescdf.co.uk/feed/aaac7ypam7alk) feed
 
 Feed available from: 
 The UK Policing feed makes use of keywords and hashtags to curate specific content.
