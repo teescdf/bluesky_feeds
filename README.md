@@ -1,6 +1,6 @@
 # bluesky_feeds
 
-Repository tracking curated keywords and hashtags for Bluesky feeds for UK Policing and DFIR, created by @teescdf.co.uk.
+Repository tracking curated keywords and hashtags for Bluesky feeds for UK Policing and DFIR, created by [@teescdf.co.uk](https://bsky.app/profile/teescdf.co.uk).
 
 These feeds curate hits based on relevant hashtags and keywords, for the previous 24 hours, to give followers/users an insight into curret topics. Replies etc. are screenned out, so you only get the first post in any given conversation/thread, so as to not overload things. Users are of course then able to peruse the full conversation/thread as they see fit.
 
